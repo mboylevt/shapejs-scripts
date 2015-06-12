@@ -16,7 +16,6 @@ function makeShell(profilePath, width, height, voxelSize){
 	ct.add(new RingWrap(radius)); 
 	image.setTransform(ct);
 	return image;
-	
 }
 
 function main(arg){
